@@ -15,3 +15,6 @@ print(cl6.roomname)
 print(cl6.name)
 print(cl6.age)
 a=[cl5,cl6]
+
+print(type(cl5))
+print(type(cl6))
