@@ -54,13 +54,6 @@ p1304_2.two()
 
 print('='*50)
 
-class python1304_2:
-    def setdata(self,first,second):
-        self.first=first
-        self.second=second
-
-    def sum(self):
-        result=self.first+self.second
 
 
 
