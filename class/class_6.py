@@ -1,8 +1,5 @@
 while True:
 
-    chose = {1: 'room1304', 2: 'room1305'}
-
-
     class Room1304:
 
         a = input('현재 인원을 입력하세요')
@@ -37,6 +34,10 @@ while True:
     r1304.add()
     r1304.sub()
     r1304.total()
+
+    r1304=Room1304()
+    r1305=Room1304()
+    choice=[r1304,r1305]
 
     if input() == 'q':
         exit()
